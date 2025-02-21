@@ -1,2 +1,2 @@
 # sales-data
-sales of countries
+data of sales group by countries
